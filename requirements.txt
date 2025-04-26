@@ -1,0 +1,8 @@
+
+langchain
+langgraph
+tavily-search
+openai
+tiktoken
+faiss-cpu
+python-dotenv
